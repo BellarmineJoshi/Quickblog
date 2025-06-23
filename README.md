@@ -94,3 +94,21 @@
 git clone https://github.com/your-username/quickblog.git
 cd quickblog
 npm install
+```
+
+
+## 🔑 Set Environment Variables
+### Create a .env file in the root and configure:
+
+MONGODB_URI=your_mongo_uri
+JWT_SECRET=your_jwt_secret
+IMAGEKIT_PUBLIC_KEY=your_key
+IMAGEKIT_PRIVATE_KEY=your_key
+IMAGEKIT_URL_ENDPOINT=your_endpoint
+GEMINI_API_KEY=your_key
+
+## ▶️ Run Locally
+
+```bash
+npm run dev
+```
