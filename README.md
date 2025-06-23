@@ -74,18 +74,7 @@
 
 ---
 
-## 📸 Screenshots
 
-<table>
-  <tr>
-    <td align="center"><b>Blog Editor</b></td>
-    <td align="center"><b>Admin Panel</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/editor.png" width="400px" /></td>
-    <td><img src="docs/admin-panel.png" width="400px" /></td>
-  </tr>
-</table>
 
 ---
 
